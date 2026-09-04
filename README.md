@@ -9,9 +9,10 @@ This repository is the home of the Java and Kotlin version of ShallGuard.
 That version is in preparation and has no release yet.
 
 Both languages publish to Maven Central under the namespace
-`com.shallguard`. The namespace is verified by the domain shallguard.com,
-so no placeholder artifact is needed. The first artifact will be
-`com.shallguard:shallguard`.
+`com.shallguard`. The namespace is registered on Maven Central since
+2026-09-04 and verified by a DNS record of the domain shallguard.com. Only
+the maintainer account can publish under it, so no placeholder artifact is
+needed. The first artifact will be `com.shallguard:shallguard`.
 
 - Website: <https://shallguard.com>
 - Organization: <https://github.com/shallguard>
